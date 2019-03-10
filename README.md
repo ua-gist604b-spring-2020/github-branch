@@ -1,4 +1,4 @@
-# Assignment: Github Branch and Merge
+# Assignment: GitHub Branch and Merge
 ## Worth: 20 points
 ## Due: 3 days
 
