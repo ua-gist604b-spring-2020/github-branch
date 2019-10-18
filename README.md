@@ -1,6 +1,6 @@
 # Assignment: GitHub Branch and Merge
 ## Worth: 20 points
-## Due: Sunday, March 17, 11:59 pm
+## Due: 7 days
 
 ## Background
 Read:
