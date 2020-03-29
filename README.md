@@ -19,7 +19,7 @@ can the changes be adopted into `master`.
 1. (5 pts) Your assignment is to create a new branch named `my-branch` and in that branch, modify this document by entering your 
 branch name below:
 
-The name of my branch is: 
+The name of my branch is: My-Branch
 
 2. (5 pts) When you have created your branch with this file modified above, create a *Pull Request* to merge your new branch into `master`.
 Be sure to give a description so that the *Reviewer* knows what you are creating, fixing, deleting, or improving. When you submit 
